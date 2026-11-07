@@ -251,6 +251,7 @@
 - [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 
 
+- [UnimeType](https://unimetype.com) - Native InputMethodKit input method that converts mixed-script Latin drafts (Pinyin, Romaji, Hinglish, Arabizi, Translit) into native script in place while preserving English words, powered by a specialised local 0.8B/4B transliteration model.
 ### Sharing Files
 
 - [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
